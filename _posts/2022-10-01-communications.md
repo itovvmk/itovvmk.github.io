@@ -1,5 +1,5 @@
 ---
-title: My previous career
+title: My Previous Career (Advertising)
 categories: [before linguistics]
 comments: true
 ---
