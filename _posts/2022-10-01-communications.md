@@ -1,6 +1,6 @@
 ---
 title: My Previous Career (Advertising)
-categories: [before linguistics]
+categories: [blog]
 comments: true
 ---
 dor e sofrimento
