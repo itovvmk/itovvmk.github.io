@@ -1,0 +1,49 @@
+
+title: Viviane Ito #Your awesome title
+email: viviane.ito@usp.br
+description: > # this means to ignore newlines until "baseurl"
+  This is a personal website by Vivi, a linguist. She is very interested
+  on how technology can fuel better linguistics research and broaden our understanding 
+  of the human language.
+
+baseurl: # the subpath of the site
+url: https://itovvmk.github.io # the base hostname & protocol for your site
+
+permalink: /:year-:month/:title
+timezone: America/New_York
+
+favicon: /assets/img/favicon.ico
+
+google_analytics: #UA—XXXXXXXX-X
+disqus_shortname: #disqus shortname
+cusdis:
+    app_id: #your cusdis app_id
+
+user:
+  name: Viviane Ito
+  pic: https://pt.gravatar.com/userimage/7175987/4527d923bb90b7fd0d86bd3c69376909.png?size=200
+  picAlt: "vivi having tea"
+  job: Linguist
+  aboutme: true # comment this out if you don't need the 'about' page.
+
+exclude:
+  - README.md
+  - LICENSE
+  - github
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comment: true   
+
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown 
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
