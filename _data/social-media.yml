@@ -1,0 +1,18 @@
+email:
+  id: 'viviane.ito@usp.br'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+twitter:
+  id: 'itovvmk'
+  href: 'https://www.twitter.com/itovvmk'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'itovvmk'
+  href: 'https://github.com/itovvmk'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
