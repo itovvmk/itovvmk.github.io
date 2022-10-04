@@ -1,0 +1,16 @@
+I"I<p>Hello, World!<br />
+This is Vivi’s CV.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;html</span> <span class="na">lang=</span><span class="s">"en"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;head&gt;</span>
+    <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"UTF-8"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;title&gt;</span>quote<span class="nt">&lt;/title&gt;</span>
+<span class="nt">&lt;/head&gt;</span>
+<span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span>Click <span class="nt">&lt;href</span> <span class="na">https:</span><span class="err">//</span><span class="na">raw.githubusercontent.com</span><span class="err">/</span><span class="na">itovvmk</span><span class="err">/</span><span class="na">itovvmk.github.io</span><span class="err">/</span><span class="na">main</span><span class="err">/</span><span class="na">assets</span><span class="err">/</span><span class="na">pdf</span><span class="err">/</span><span class="na">CV_Vivi_Ito.pdf</span><span class="nt">&gt;</span>here.<span class="nt">&lt;/href&gt;&lt;/p&gt;</span>
+<span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div>
+
+:ET
